@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638722291352298837
-    m_Hash: 1655607629
+      ticks: 638723858439331998
+    m_Hash: 2947892228
   m_LockFileStatus:
     m_FilePath: D:/gifhub/repositorioebac/trabajito de unity/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638722293361141548
-    m_Hash: 1894139921
+      ticks: 638723858439331998
+    m_Hash: 3456337054
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
